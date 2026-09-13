@@ -1,0 +1,6 @@
+{
+  "name": "Yantra Salon – A Family Salon",
+  "description": "Premium luxury family salon in Jodhpur, Rajasthan offering bespoke hair, skin, makeup, nails, and spa services with personalized consultations and direct inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
